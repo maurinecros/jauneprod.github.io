@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "test super fonte";
+	src: url('police/Helvetica.ttf');
+}
+
+@font-face {
+	font-family: "Ma Super Fonte";
+	font-style: bold;
+	src: url('police/Helvetica-Bold.ttf');
+}
+
+.corps{
+    padding-left: 7%;
+    margin: 0;
+}
+
+header{
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+p{
+    font-family: "test super fonte";
+    font-size: 130%;
+    margin: 0;
+}
+
+h1{
+    font-family: "Ma Super Fonte";
+    font-style: bold;
+    font-size: 700%;
+    margin: 0;
+}
+
+h2{
+    font-family: "Ma Super Fonte";
+    font-style: bold;
+    font-size: 330%;
+    color: #EBD822;
+    margin: 0%;
+}
+
+.logo{
+    width: 6vw;
+}
+
+.flex{
+    display: flex;
+}
+
+.middle{
+    padding-top: 7%;
+    padding-left: 3%;
+}
+
+.middle_r{
+    padding-right: 9%;
+    padding-top: 20%;
+}
+
+.middle_vince{
+    padding-left: 0%;
+    padding-top: 20%;
+}
+
+a{
+    color: #EBD822;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    transition: 0.4s;
+}
+
+.padding_p{
+    padding-top:2%;
+    padding-bottom: 5%;
+}
+
+.padding{
+    padding: 4% 0%;
+}
+
+.align{
+    text-align: center;
+}
+
+.logofooter{
+    padding: 6% 0;
+}
+
+.right{
+    align-items: right;
+    text-align: right;
+    padding-left: 63%;
+}
