@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "test super fonte";
-	src: url('police/Helvetica.ttf');
+    font-family: "Helvetica";
+	src: url('/site jaune prod/police/Helvetica.ttf');
 }
 
 @font-face {
-	font-family: "Ma Super Fonte";
+	font-family: "Bold Helvetica";
 	font-style: bold;
-	src: url('police/Helvetica-Bold.ttf');
+	src: url('/site jaune prod/police/Helvetica-Bold.ttf');
 }
 
 .corps{
@@ -20,20 +20,20 @@ header{
 }
 
 p{
-    font-family: "test super fonte";
+    font-family: "Hevetica";
     font-size: 130%;
     margin: 0;
 }
 
 h1{
-    font-family: "Ma Super Fonte";
+    font-family: "Bold Helvetica";
     font-style: bold;
     font-size: 700%;
     margin: 0;
 }
 
 h2{
-    font-family: "Ma Super Fonte";
+    font-family: "Bold Helvetica";
     font-style: bold;
     font-size: 330%;
     color: #EBD822;
