@@ -33,7 +33,6 @@ src: url('/site jaune prod/police/Helvetica-Bold.ttf');
     transform: rotate(359deg);
   }
 }
-
 .maurine{
   padding: 11% 13%;
 }
@@ -243,6 +242,7 @@ src: url('/site jaune prod/police/Helvetica-Bold.ttf');
 .material-card .img-container {
   overflow: hidden;
   position: absolute;
+  display: flex;
   background-color: white;
   left: 0;
   top: 0;
