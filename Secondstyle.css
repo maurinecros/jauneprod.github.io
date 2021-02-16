@@ -46,6 +46,12 @@ src: url('/site jaune prod/police/Helvetica-Bold.ttf');
 .alvina{
   padding: 15% 23%;
 }
+.pauline{
+  padding: 15% 23%;
+}
+.vincent{
+  padding: 15% 23%;
+}
 .material-card {
   position: relative;
   height: 0;
@@ -1282,4 +1288,13 @@ h2 {
 }
 .page-header{
   border: none;
+}
+.jp{
+  height: 10vh;
+  width: 10vw;
+}
+.headerinet{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
